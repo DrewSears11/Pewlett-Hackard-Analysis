@@ -3,8 +3,8 @@ Module 7
 
 ## 1. Overview 
 	- The purpose of this project was to help the company Pewlett-Hackard find out which of there employees was 
-getting ready for retirement.  By using the 6 tables of data we were given, we could help find out which departments would
-be effected the most by the "silver tsnumai" so they could plan.
+          getting ready for retirement.  By using the 6 tables of data we were given, we could help find out which departments would
+          be effected the most by the "silver tsnumai" so they could plan.
 
 ## 2. Results 
 	- Looking at our retiring_title.csv we can see that over 50,000! of near 70,000 retiring employees are either Senior Staff or Senior
