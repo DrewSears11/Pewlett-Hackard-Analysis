@@ -7,6 +7,7 @@ Module 7
           be effected the most by the "silver tsnumai" so they could plan.
 
 ## 2. Results 
+	
 	- Looking at our retiring_title.csv we can see that over 50,000! of near 70,000 retiring employees are either Senior Staff or Senior
 	  Engineers.  
 	- Only 2 of the retiring employees are Managers
@@ -17,6 +18,7 @@ Module 7
 	
 
 ## 3. Summary  
+	
 	- How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 	  -41,380
 	- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
