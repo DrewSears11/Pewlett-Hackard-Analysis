@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-Module 7
+Module 7 - SQL
 
 ## 1. Overview 
 	- The purpose of this project was to help the company Pewlett-Hackard find out which of there employees was 
